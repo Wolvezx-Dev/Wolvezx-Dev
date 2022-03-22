@@ -3,7 +3,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wxmaps.tebex.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wolvezx3)
 
-TODO
+I'm a 3D Artist, currently trying to learn how to code just for fun the languages that i'm currently learning are JavaScript and Python.
+Current Workflow, Model Full in Blender, swithced recently from 3DS Max, Materials and Textures on Substance Painter/Designer and/or Photoshop, 
+rendering completely on Unreal Engine *UE4 and UE5*. 
   
 
 **Talking about Personal Stuffs:**
