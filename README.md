@@ -20,9 +20,8 @@ rendering completely on Unreal Engine *UE4 and UE5*.
 
 
 📈 **My GitHub Stats:**
-<p>
+
 [![Wolvezx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolvezx-Dev)
-</p>
 
 
 
