@@ -21,8 +21,7 @@ rendering completely on Unreal Engine *UE4 and UE5*.
 
 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=Wolvezx-Dev&count_private=true)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolvezx-Dev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+[![Wolvezx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolvezx-Dev)
 </p>
 
 
