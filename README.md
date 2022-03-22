@@ -8,12 +8,13 @@ I'm a 3D Artist, currently trying to learn how to code just for fun the language
 My Current 3D Workflow: Model Full in Blender, swithced recently from 3DS Max, Materials and Textures on Substance Painter/Designer and/or Photoshop, 
 rendering completely on Unreal Engine *UE4 and UE5*. 
   
+<br>
 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning how to code;
-- 📫 How to reach me: wolvezxmapping@gmail.com;.
+- 📫 How to reach me: wolvezxmapping@gmail.com;
 
 </br>
 
