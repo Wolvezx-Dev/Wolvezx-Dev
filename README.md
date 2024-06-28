@@ -8,7 +8,7 @@ I'm a 3D Artist
 
 **Talking about Personal Stuffs:**
 
-- 🤷‍♂️;
+- 🤷‍♂️
 
 </br>
 
